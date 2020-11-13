@@ -1,4 +1,4 @@
-Blockly.Blocks['block_type'] = {
+Blockly.Blocks['sayhello'] = {
   init: function() {
     this.appendDummyInput()
         .appendField("哈囉");
