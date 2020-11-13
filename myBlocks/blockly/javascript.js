@@ -1,4 +1,4 @@
-Blockly.JavaScript['block_type'] = function(block) {
+Blockly.JavaScript['sayhello'] = function(block) {
   // TODO: Assemble JavaScript into code variable.
   var code = 'alert("Hello")';
   // TODO: Change ORDER_NONE to the correct strength.
